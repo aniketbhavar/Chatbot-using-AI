@@ -1,0 +1,58 @@
+{
+  "id": "9e30733b-58e5-4741-b483-ebd308ab5a6b",
+  "name": "Weather Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "042a3752-25f4-4245-b072-5b8151e0e6a0",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The current temperature in Nashik is 26°C. The weather is mildly cold.",
+            "Tomorrow\u0027s forecast predicts sunny conditions with a high of 28°C and a low of 18°C.",
+            "The temperature right now is 26 degrees Celsius/Fahrenheit.",
+            "Yes, there is a chance of rain tomorrow. Don\u0027t forget your umbrella!",
+            "This weekend, expect partly cloudy conditions with temperatures ranging from 22°C to 30°C",
+            "The current weather conditions are clear skies with a temperature of 25°C. Other notable details include a gentle breeze from the northwest at 10 km/h, and the humidity level is at a comfortable 40%. Enjoy the pleasant weather!",
+            "The 7-day forecast shows partly cloudy conditions with highs around 28°C and lows around 18°C. Expect a mix of sun and clouds throughout the week, with a slight chance of showers on Thursday. It\u0027s a relatively mild week, so plan your activities accordingly and enjoy the pleasant weather",
+            "There are no severe weather warnings at the moment. The current weather conditions are mostly sunny with a temperature of 22°C. Enjoy the favorable weather conditions!",
+            "Climate is the average of all atmospheric conditions over a long period of time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

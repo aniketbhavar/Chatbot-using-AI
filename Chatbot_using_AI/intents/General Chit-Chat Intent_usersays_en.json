@@ -1,0 +1,132 @@
+[
+  {
+    "id": "756fb2a8-c284-44c6-b299-b8e849cc6e5f",
+    "data": [
+      {
+        "text": "What\u0027s your favorite hobby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1bc39ce-240e-4cc9-b38f-3b5ad48a4324",
+    "data": [
+      {
+        "text": "Can we chat about something random?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d4469c-ce0f-46db-b8cc-82e8d799bae8",
+    "data": [
+      {
+        "text": "Tell me something interesting.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe261656-1f4e-45cf-a873-efb76f7af79a",
+    "data": [
+      {
+        "text": "What\u0027s the meaning of life?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df113235-7528-4c14-8759-ca5b0257d8f5",
+    "data": [
+      {
+        "text": "Do you like music?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af13f4e8-83a9-4ac9-91c0-a25cb4eb4802",
+    "data": [
+      {
+        "text": "Can you recommend a good movie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34e521f8-2fc9-449e-bfa8-b38ea2a7d5b0",
+    "data": [
+      {
+        "text": "How\u0027s your day going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86c09ab2-adf2-4659-b737-384aba8c0ad3",
+    "data": [
+      {
+        "text": "What\u0027s your favorite color?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a58941f-d886-4576-bd05-c8d1f6d28bb0",
+    "data": [
+      {
+        "text": "\"Tell me a joke.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab9f8022-203e-44aa-920c-e8e48ca15bf2",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

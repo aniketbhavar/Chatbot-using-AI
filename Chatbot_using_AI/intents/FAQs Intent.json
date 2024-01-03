@@ -1,0 +1,43 @@
+{
+  "id": "4780cba2-2d82-49a5-9023-377816068d7f",
+  "name": "FAQs Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our business hours are from 9:00 AM to 6:00 PM, Monday to Friday.",
+            "You can contact our customer support team at support@example.com or by calling +1-123-456-7890.",
+            "Yes, we offer refunds within 30 days of purchase. Please refer to our refund policy for details.",
+            "We accept Visa, MasterCard, American Express, and PayPal for online transactions.",
+            "Certainly! You can track your order by logging into your account on our website and navigating to the order history section.",
+            "Currently, we have a promotion offering [details about the ongoing promotion]. Check our website for the latest discounts.",
+            "To return a product, please visit our returns page on the website and follow the instructions provided.",
+            "Our return policy allows returns within 14 days of purchase. Please review our full return policy for specific details",
+            "We offer standard and expedited shipping options. Standard shipping takes 5-7 business days, while expedited shipping delivers within 2-3 business days."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

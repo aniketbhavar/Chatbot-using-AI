@@ -1,0 +1,43 @@
+{
+  "id": "68a921ac-3abb-4000-b21a-6dfdd61a8db2",
+  "name": "General Chit-Chat Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m just a computer program, but I\u0027m here to assist you. How can I help today?",
+            "Sure, here\u0027s a joke: Why don\u0027t scientists trust atoms? Because they make up everything!",
+            "I don\u0027t have a favorite color, but I\u0027m ready to chat and assist you with any questions.",
+            "I\u0027m doing well, thank you! How can I make your day better?",
+            "Absolutely! What genre are you in the mood for? Action, comedy, drama, or something else?",
+            "While I don\u0027t have personal preferences, I can certainly help you find music recommendations. What genre are you interested in?",
+            "The meaning of life is a complex philosophical question. What does it mean to you?",
+            "Of course! Let\u0027s chat about something random. What comes to your mind?",
+            "As a chatbot, I don\u0027t have personal hobbies, but I\u0027m here to assist you with any questions or information you need."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

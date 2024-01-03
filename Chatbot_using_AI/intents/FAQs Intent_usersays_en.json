@@ -1,0 +1,119 @@
+[
+  {
+    "id": "84dbb3e2-7f5e-4d33-a11d-f7f267212bbd",
+    "data": [
+      {
+        "text": "Tell me about your shipping options.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c6efa8f-9a52-45e9-aa61-442411e0895b",
+    "data": [
+      {
+        "text": "What is your return policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1db75c1-33cc-450a-82a9-7df17652eabb",
+    "data": [
+      {
+        "text": "How do I return a product?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d05ac39b-e564-4506-984f-ee8e65c644b1",
+    "data": [
+      {
+        "text": "Are there any discounts or promotions currently available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30829e51-2608-461c-9fa8-a08f5dffa733",
+    "data": [
+      {
+        "text": "Can I track my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5e4a144-f3ae-4280-945d-f07969b7c586",
+    "data": [
+      {
+        "text": "What payment methods do you accept?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca362467-6cc2-4642-877c-8680d1bfbc37",
+    "data": [
+      {
+        "text": "Do you offer refunds on purchases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cd56b0a-9d45-4881-9c1a-2083e8afb114",
+    "data": [
+      {
+        "text": "How can I contact customer support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80f11d07-64b3-4131-bd6d-7ad87923c393",
+    "data": [
+      {
+        "text": "What are your business hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
